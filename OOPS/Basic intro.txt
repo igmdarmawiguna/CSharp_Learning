@@ -1,0 +1,84 @@
+
+	OOPS IMPLEMENTATION IN C#
+	----------------------------------------------
+
+		OOPS
+	------------------------------------------------
+	     class 			object
+	        |
+data member         member function
+
+	class Bank
+	{
+	 [ data ]   accno , name , balance;
+	
+	[ functions ]
+		deposit(  )
+		withdraw( )
+		balance( )
+	}
+
+	class = data + functions ( encapsulation )
+
+	Data hiding :-
+
+	Making members of the class as private/public
+	based on the real world requirement.
+
+	Abstraction :-
+	Hide complexity from the object and provide
+	simple functions to invoke.
+	
+	
+	c#
+	
+ 	namespace = collection of classes.
+	namespace n1
+	{
+		class c1
+		{
+		.
+		}
+		class c2
+		{
+		.
+		}
+	}
+ 
+
+	Create a class called "Bank" with private
+	data member amount with public functions
+	to deposit , withdraw and find balance.
+
+	Main program should be created with options like
+		1. deposit
+		2. withdraw
+		3. balance
+		4. Exit
+
+	Program to work for N customers.
+
+
+	
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+
+
+	
+
+	
+
+
